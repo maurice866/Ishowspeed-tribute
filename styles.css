@@ -1,0 +1,13 @@
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}  
+body {
+   background-color: #17202A;
+   color: white;
+ }
+ div {
+   background-color: red
+ }
